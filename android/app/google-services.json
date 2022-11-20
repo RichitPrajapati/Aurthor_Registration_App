@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929699377841",
+    "project_id": "author-registration-app-8eb30",
+    "storage_bucket": "author-registration-app-8eb30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929699377841:android:75987cdf25b0ff42a5a890",
+        "android_client_info": {
+          "package_name": "com.richit.author_registration_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929699377841-35m9m55ool1gkkgecbqfd543sevdph3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqrvs9tiq1RAZfrVRzw97O1WQgph9a0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929699377841-35m9m55ool1gkkgecbqfd543sevdph3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
